@@ -1,0 +1,14 @@
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.AssemblyInfoInputs.cache
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.AssemblyInfo.cs
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.csproj.CoreCompileInputs.cache
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\bin\Debug\net9.0\inventosTonyStark.exe
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\bin\Debug\net9.0\inventosTonyStark.deps.json
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\bin\Debug\net9.0\inventosTonyStark.runtimeconfig.json
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\bin\Debug\net9.0\inventosTonyStark.dll
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\bin\Debug\net9.0\inventosTonyStark.pdb
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.dll
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\refint\inventosTonyStark.dll
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.pdb
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\inventosTonyStark.genruntimeconfig.cache
+d:\Escritorio\Laboratorio Avengers\inventosTonyStark\obj\Debug\net9.0\ref\inventosTonyStark.dll
